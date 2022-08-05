@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
--   romeorel99gmail.com
+   romeorel99gmail.com
 
 <!---
 Romeorel/Romeorel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
