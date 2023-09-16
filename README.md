@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Romeorel
-- 👀 I’m interested in web dev, crypto, psychology
-- 🌱 I’m currently learning Solidity, Web3
-- 💞️ I’m looking to collaborate on web dev, blockchain project
+- 👀 I’m interested in App Development, Graphic Design, SaaS
+- 🌱 I’m currently learning React, Graphic Design
+- 💞️ I’m looking to collaborate on Web dev, Logo Design, Icon Design, SaaS project
 - 📫 How to reach me:
    romeorel99gmail.com
 
