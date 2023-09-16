@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Romeorel
+- 👋 Hi, I’m @Romeorel, Student in IT 3year, Belgium, Charleroi
 - 👀 I’m interested in App Development, Graphic Design, SaaS
 - 🌱 I’m currently learning React, Graphic Design
 - 💞️ I’m looking to collaborate on Web dev, Logo Design, Icon Design, SaaS project
