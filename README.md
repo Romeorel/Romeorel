@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning React, Graphic Design
 - 💞️ I’m looking to collaborate on Web dev, Logo Design, Icon Design, SaaS project
 - 📫 How to reach me:
-   romeorel99gmail.com
+   romeorel99gmail.com, 
+   https://www.behance.net/romeorel-icon-design, 
+   https://dribbble.com/RomeoRel
 
 <!---
 Romeorel/Romeorel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
