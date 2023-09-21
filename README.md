@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on Web dev, Logo Design, Icon Design, SaaS project
 - 📫 How to reach me:
    romeorel99gmail.com, 
-   https://www.behance.net/romeorel-icon-design, 
-   https://dribbble.com/RomeoRel
-
+   https://www.behance.net/romeorel-icon-design
 <!---
 Romeorel/Romeorel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
