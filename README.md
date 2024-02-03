@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Romeorel, Student in IT 3 year based in Belgium, Charleroi
 - 👀 I’m interested in Web Dev/Web App, SaaS
-- 🛠️ HTML, CSS, JavaScript, React, BootstrapReactJS, NodeJS
+- 🛠️ HTML, CSS, JavaScript, React, ReactJS, NodeJS
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Web dev, Web design, SaaS project
 - 📫 How to reach me:
